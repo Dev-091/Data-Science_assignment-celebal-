@@ -1,0 +1,1 @@
+RAG systems combine retrieval and generation. Chunking with overlap helps preserve context. Vector search compares embedded passages against a user query.
