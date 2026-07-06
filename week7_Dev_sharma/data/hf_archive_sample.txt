@@ -1,1 +1,0 @@
-Hybrid search blends keyword overlap with vector similarity. Re-ranking can improve precision when the initial retrieval returns broad passages.
