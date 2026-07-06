@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.streamlit/
+artifacts/
+logs/
+data/uploads/
+*.pkl
+*.pickle
+*.pyc
+*.log
